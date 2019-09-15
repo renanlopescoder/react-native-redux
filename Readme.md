@@ -12,6 +12,6 @@ React Native application connected to Firebase database and integrated with guil
 
 ### Screencast
 
-<a  href="https://www.youtube.com/watch?v=zKYLip4G6Dg&list=PLUFoF0JZEYPaA8g8s549S_zyvYyNN-oZ-&index=5&t=1s">Project Screencast</a>
+[![Screencast React Native](http://img.youtube.com/vi/zKYLip4G6Dg/0.jpg)](http://www.youtube.com/watch?v=zKYLip4G6Dg "Screencast React Native")
 
 By: <a  href="http://renanlopes.com">Renan Lopes</a>
